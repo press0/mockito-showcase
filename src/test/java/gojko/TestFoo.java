@@ -1,4 +1,4 @@
-package net.gojko;
+package gojko;
 
 import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;
